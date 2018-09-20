@@ -1,1 +1,2 @@
 git仓库，用于测试springcloud config
+针对的微服务是special
