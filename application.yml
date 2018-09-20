@@ -2,5 +2,5 @@ myConfig:
     application: application
     label: master
     profile: default
-    git-repository: special
+    gitRepository: special
 
