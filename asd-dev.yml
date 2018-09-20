@@ -1,6 +1,6 @@
 myConfig: 
-    application: special
+    application: asd
     label: master
-    profile: default
+    profile: dev
     gitRepository: special
 
