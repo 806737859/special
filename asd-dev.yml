@@ -1,6 +1,0 @@
-myConfig: 
-    application: asd
-    label: master
-    profile: dev
-    gitRepository: special
-
