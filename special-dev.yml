@@ -1,0 +1,6 @@
+myConfig: 
+    application: special
+    label: master
+    profile: dev
+    gitRepository: special
+
